@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Save_Icon.jpg</file>
+        <file>Open_Icon.png</file>
+        <file>About_Icon.png</file>
+        <file>new_file_Icon.png</file>
+        <file>cut_Icon.png</file>
+        <file>copy_Icon.png</file>
+        <file>Paste_Icon.png</file>
+        <file>exit_Icon.png</file>
+        <file>Save_as_Icon.png</file>
+    </qresource>
+</RCC>
